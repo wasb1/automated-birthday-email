@@ -3,9 +3,6 @@ import datetime as dt
 import random
 import pandas as pd
 
-my_email = "blatan334@gmail.com"
-my_password = "frsmxbpbprgmqwgm"
-
 now = dt.datetime.now()
 now_day = now.day
 now_month = now.month
